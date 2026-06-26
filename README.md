@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm DevCar23</h1>
+<h1 align="center">Hi, I'm DevCar23 💻</h1>
 <h3 align="center">I am a systems engineering student interested in improving my skills as a developer</h3>
 
 <h3 align="left">Connect with me:</h3>
